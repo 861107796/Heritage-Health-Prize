@@ -1,4 +1,4 @@
-# sml-project-1-
+# sml-project
 SML Project 1  
 Project Introduction  
 This is a machine learning based project focused on exploring different models and data processing techniques.  
