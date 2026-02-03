@@ -1,5 +1,4 @@
-# sml-project
-SML Project 1  
+# Heritage-Health-Prize
 Project Introduction  
 This is a machine learning based project focused on exploring different models and data processing techniques.  
 
